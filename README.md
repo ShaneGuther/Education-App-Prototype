@@ -20,4 +20,11 @@ https://www.youtube.com/watch?v=CX1mB1DH0wA
 Figma prototype link
 https://www.figma.com/proto/qypx7W4J7xZfsM05IKDcfA/Assignment2?node-id=2%3A306&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A306
 
+P4. Top 5 new functionalities
+1. Notification Support
+2. Calendar-assignment integration
+3. Private chat - students and teachers
+4. Custom widgets
+5. File uploading
+
 ![Screen Shot 2022-02-28 at 5 36 03 PM](https://user-images.githubusercontent.com/46198789/156069988-639221c7-37b5-4255-9da8-3124f897b671.png)
