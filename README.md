@@ -14,4 +14,10 @@ A prototype of an app to organize school assignments and classes created in Figm
 An app prototype created for Human Computer Interaction class, meant to be used as a companion app to the school website to keep track of classes, assignments, quizzes and announcements.
 Full functionality such as quizzes, lectures, and grades are not included in the app currently.
 
+Video demo of prototype
+https://www.youtube.com/watch?v=CX1mB1DH0wA
+
+Figma prototype link
+https://www.figma.com/proto/qypx7W4J7xZfsM05IKDcfA/Assignment2?node-id=2%3A306&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A306
+
 ![Screen Shot 2022-02-28 at 5 36 03 PM](https://user-images.githubusercontent.com/46198789/156069988-639221c7-37b5-4255-9da8-3124f897b671.png)
