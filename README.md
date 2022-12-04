@@ -1,4 +1,5 @@
 # Education-App-Prototype
+*Created as part of a school assignment.*
 A prototype of an app to organize school assignments and classes created in Figma
 
 ![Screen Shot 2022-02-28 at 5 00 53 PM](https://user-images.githubusercontent.com/46198789/156069512-f483142f-4a36-4123-afaf-a3c9a30ce946.png)
